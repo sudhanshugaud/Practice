@@ -1,0 +1,13 @@
+hi this is a new git hub data store in the git hub account.
+
+echo "# SeleniumData" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Sudhanshu08111999/SeleniumData.git
+git push -u origin main
+
+git remote add origin https://github.com/Sudhanshu08111999/SeleniumData.git
+git branch -M main
+git push -u origin main
